@@ -12,7 +12,7 @@ sidebar_order: 7
     <li><a href="#work-projects">Work-Related Projects</a>
       <ul>
         <li><a href="#faces-scenes">Faces in Scenes – Eye-Tracking Analysis</a></li>
-        <li><a href="#gaze-neural">Individual Gaze Shapes – fMRI Analysis</a></li>
+        <li><a href="#gaze-neural">Individual Gaze – fMRI Analysis</a></li>
       </ul>
     </li>
     <li><a href="#other-projects">Other Projects</a></li>
