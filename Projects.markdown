@@ -13,9 +13,9 @@ sidebar_order: 7
       <ul>
         <li><a href="#faces-scenes">Faces in Scenes – Eye-Tracking Analysis</a></li>
         <li><a href="#gaze-neural">Individual Gaze – fMRI Analysis</a></li>
+        <li><a href="#other-projects">Other Projects</a></li>
       </ul>
     </li>
-    <li><a href="#other-projects">Other Projects</a></li>
     <li><a href="#personal-projects">Personal Projects</a>
       <ul>
         <li><a href="#conflicts-figures">Conflicts in Figures</a></li>
