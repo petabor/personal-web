@@ -27,10 +27,10 @@ sidebar_order: 2
     <ul>
       <li>Individual differences in gaze behavior</li>
       <li>Eye movements (saccades, microsaccades, blinks)</li>
-      <li>Naturalistic vision (mobile eye tracking)</li>
+      <li>Naturalistic vision with mobile eye tracking</li>
       <li>Visual search in naturalistic environment</li>
       <li>Seeing but not perceiving (mind-wandering)</li>
-      <li>Gaze behavior in social interactions (face perceptiion)</li>
+      <li>Gaze behavior in context of social interactions (e.g. face perception)</li>
     </ul>
   </p>
 
