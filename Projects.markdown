@@ -43,7 +43,7 @@ In this project, we investigated <strong>how free-viewing dynamics vary as a fun
 By contrasting fixations landing on <em>faces</em> versus neutral <em>objects</em>, we confirmed that <strong>saccade velocity towards faces was higher as compared to other objects and the duration of the preceding fixation is shorter when faces are the upcoming targets</strong>, mainly if the face target is close. These findings suggest that the dynamics of gaze behavior during free-viewing of complex scenes are modulated by several interacting factors which should be considered in the study of natural vision.
 
 <h5>Contribution:</h5>
-Developed an algorithm for the identification of a particular gaze sequence (fixation-saccade-fixation), with the last fixation landing either on an object or on a face. Identified important modulators for this type of gaze sequence and customized image masks for labelling different semantic categories. Authored the manuscript and interpreted findings in the context of current research.
+Developed an algorithm for the identification of a particular gaze sequence (fixation-saccade-fixation), with the last fixation landing either on an object or on a face. Identified important modulators for this type of gaze sequence and customized image masks for labelling different semantic categories. Interpreted findings in the context of current research.
 
 <p>&nbsp;&nbsp;</p>
 
@@ -91,7 +91,7 @@ Free viewing increased brain activity (i.e. BOLD signal amplitude) but produced 
 Observer pairs with more dissimilar gaze patterns showed greater neural divergence, indicating that gaze matters for neural representations. Specifically, pairwise differences in the <em>spatial distribution</em> of gaze and <em>semantic salience</em> contribute to neural divergence in IT.
 
 <h5>Contribution:</h5>
-Developed and implemented a customized hyperalignment algorithm, showing that functional layout can be overcome by using this technique. Created pre-processing pipelines supporting hyperalignment(e.g. voxel selection or nuisance regression) and cortical-surface visualizations. Authored the manuscript and interpreted findings in the context of current research.  
+Developed and implemented a customized hyperalignment algorithm, showing that functional layout can be overcome by using this technique. Created pre-processing pipelines supporting hyperalignment(e.g. voxel selection or nuisance regression) and cortical-surface visualizations. Interpreted findings in the context of current research.  
 
 
 <p>&nbsp;&nbsp;</p>
