@@ -49,7 +49,7 @@ Developed an algorithm for the identification of a particular gaze sequence (fix
 
 <div class='im_text'>
   <div class='image'>
-    <img src="/assets/images/projects/paper1_illust.png" width="300">
+    <img src="{{ '/assets/images/projects/paper1_illust.png' | relative_url }}" width="300">
   </div>
   <div class='text'>
     <p><strong>Figure 1.</strong>This figure shows the pattern of eye movements (saccades) while viewing a scene. 
@@ -60,8 +60,8 @@ Developed an algorithm for the identification of a particular gaze sequence (fix
 <p>&nbsp;&nbsp;</p>
 
 <div class='im_row'>
-  <img src="/assets/images/projects/paper1_veloc.png" width="400">
-  <img src="/assets/images/projects/paper1_fixdur.png" width="400">
+  <img src="{{ '/assets/images/projects/paper1_veloc.png' | relative_url }}" width="400">
+  <img src="{{ '/assets/images/projects/paper1_fixdur.png' | relative_url }}" width="400">
 </div>
 
 
@@ -99,15 +99,15 @@ Developed and implemented a customized hyperalignment algorithm, showing that fu
 <strong>Gaze divergence is reflected by brain divergence when viewing identical movie stimuli</strong>
 
 <div class='im_row'>
-  <img src="/assets/images/projects/paper2_illust_gaze.png" width="400">
-  <img src="/assets/images/projects/paper2_illust_brain.png" width="400">
+  <img src="{{ '/assets/images/projects/paper2_illust_gaze.png' | relative_url }}" width="400">
+  <img src="{{ '/assets/images/projects/paper2_illust_brain.png' | relative_url }}" width="400">
 </div>
 
 <p>&nbsp;&nbsp;</p>
 
 <div class='im_text2'>
   <div class='image'>
-    <img src="/assets/images/projects/paper2_panel.png">
+    <img src="{{ '/assets/images/projects/paper2_panel.png' | relative_url }}">
   </div>
   <div class='text'>
     <p><strong>Panel A:</strong> During free viewing, neural activations are stronger but more idiosyncratic. 
@@ -150,7 +150,7 @@ Conducting exploratory analyses on the link between mind wandering and fixation 
 
 <div class='im_text3'>
   <div class='image'>
-    <img src="/assets/images/projects/total_nr_deaths_2023.png">
+    <img src="{{ '/assets/images/projects/total_nr_deaths_2023.png' | relative_url }}">
   </div>
   <div class='text'>
     <p><strong>Global Distribution of Conflict Fatalities (2023)</strong><br> A map shows the number of recorded deaths caused by armed conflicts in 2023. Darker shades indicate higher casualty numbers, making regional hotspots immediately visible.</p>
@@ -160,8 +160,8 @@ Conducting exploratory analyses on the link between mind wandering and fixation 
 <p>&nbsp;&nbsp;</p>
 
 <div class='im_row'>
-  <img src="/assets/images/projects/cumul_continents.png" width="400">
-  <img src="/assets/images/projects/forecast.png" width="400">
+  <img src="{{ '/assets/images/projects/cumul_continents.png' | relative_url }}" width="400">
+  <img src="{{ '/assets/images/projects/forecast.png' | relative_url }}" width="400">
 </div>
 
 <div class='cls_text2'>

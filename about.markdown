@@ -6,7 +6,7 @@ sidebar_order: 2
 
 <p>&nbsp;&nbsp;</p>
 
-<img class='pers-foto' src="/assets/images/IMG-20221112-WA0005.jpg" width="200">
+<img class='pers-foto' src="{{ '/assets/images/IMG-20221112-WA0005.jpg' | relative_url }}" width="200">
 
 
 <p>&nbsp;&nbsp;</p>
