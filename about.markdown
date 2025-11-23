@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-sidebar_order: 2
+sidebar_order: 1
 ---
 
 <p>&nbsp;&nbsp;</p>
