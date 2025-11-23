@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meanwhile
+title: Meanwhile ...
 ---
 
 <!-- <img src="/assets/images/meme01.jpg"> -->
