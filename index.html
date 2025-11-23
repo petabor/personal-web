@@ -1,47 +1,39 @@
 ---
 layout: page
-title: What's new?
-sidebar_order: 9
+title: About
+sidebar_order: 1
 ---
 
-<p class='custom-p-post'>
+<p>&nbsp;&nbsp;</p>
 
-<strong>This website was created using <a href="https://github.com/poole/hyde" target="_blank">Hyde</a>, an amazing jekyll template.</strong><br> 
-Don't forget to check it out!
+<img class='pers-foto' src="{{ '/assets/images/IMG-20221112-WA0005.jpg' | relative_url }}" width="200">
 
-</p>
 
-<p>&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class='about-profile'>
+  <p>
+    Cognitive neuroscientist and quantitative researcher with experience designing and optimizing data-analysis pipelines for <strong>behavioral and neural datasets</strong> (eye-tracking and fMRI). 
+  </p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <p>
+    Skilled in <strong>Python, MATLAB, and R</strong> for data preprocessing, statistical modeling, and visualization.
+  </p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
+  <p>&nbsp;&nbsp;</p>
+
+  <p>
+    <h3>Research interests:</h3> 
+    <ul>
+      <li>Individual differences in gaze behavior</li>
+      <li>Eye movements (saccades, microsaccades, blinks)</li>
+      <li>Naturalistic vision with mobile eye tracking</li>
+      <li>Visual search in naturalistic environment</li>
+      <li>Seeing but not perceiving (mind-wandering)</li>
+      <li>Gaze behavior in context of social interactions (e.g. face perception)</li>
+    </ul>
+  </p>
+
 </div>
 
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div> -->
+
