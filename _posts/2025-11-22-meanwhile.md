@@ -1,20 +1,10 @@
 ---
 layout: post
-title: How is it going?
+title: Meanwhile
 ---
 
 <!-- <img src="/assets/images/meme01.jpg"> -->
 
-
-
-<p>&nbsp;&nbsp;&nbsp;</p>
-
-
-<p>
-
-Meanwhile ...
-
-</p>
 
 <p>&nbsp;&nbsp;&nbsp;</p>
 
