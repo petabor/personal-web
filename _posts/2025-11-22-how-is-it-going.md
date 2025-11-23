@@ -1,16 +1,10 @@
 ---
 layout: post
-title: What's new?
+title: How is it going?
 ---
 
 <!-- <img src="/assets/images/meme01.jpg"> -->
 
-<p class='custom-p-post'>
-
-<strong>This website was created using <a href="https://github.com/poole/hyde" target="_blank">Hyde</a>, an amazing jekyll template.</strong><br> 
-Don't forget to check it out!
-
-</p>
 
 
 <p>&nbsp;&nbsp;&nbsp;</p>
