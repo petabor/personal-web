@@ -117,7 +117,7 @@ Developed and implemented a customized hyperalignment algorithm, showing that fu
   </div>
 </div>
 
-<h2 id="other-projects">Other Projects [Unpublished / In Progress]</h2>
+<h3 id="other-projects">Other Projects [Unpublished / In Progress]</h3>
 
 * <strong>The effect of spatial frequency on blink rate in a naturalistic environment</strong><br>
 Investigating how blink frequency varies with the spatial-frequency content of naturalistic scenes and whether blinks reflect spatial content variation also during navigating real-world environment with use of mobile eye tracking. Analyses employ Fourier decomposition of naturalistic scenes and decomposition of image frames preceding blink events.  

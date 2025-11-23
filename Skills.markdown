@@ -11,10 +11,10 @@ sidebar_order: 4
 * <strong>Data Analysis & Modeling:</strong> fMRI preprocessing (SPM, FreeSurfer), eye-tracking (Eyelink 1000 Plus, PupilLabs [Neon]), MATLAB, Python (NumPy, pandas, matplotlib), R (lme4, ggplot2)
 * <strong>Statistical Methods:</strong> Linear mixed-effects models (LMMs), PCA, correlation-based modeling, cross-validated classification algorithms, RSA
 * <strong>Experimental Design & Tools:</strong> Psychtoolbox, PsychoPy, LimeSurvey 
-* <strong>Version Control & Reproducibility:</strong> OSF
+* <strong>Version Control & Reproducibility:</strong> OSF, Git
 * <strong>Domains:</strong> Cognitive neuroscience, behavioral data, healthcare analytics
 * <strong>Languages:</strong> Czech (C2 native), English (C1), German (B2)
-* <strong>Other:</strong> Git, HTML/CSS, bash, SQL (basic), MS Office/Latex
+* <strong>Other:</strong> HTML/CSS, bash, SQL (basic), MS Office/Latex
 
 <h3>Certifications & Technical Training</h3>
 

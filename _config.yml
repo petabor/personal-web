@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Petra Borovska
 tagline:          'A Jekyll theme'
-description:      'Short introduction'
+# description:      'Short introduction'
 url:              "https://petabor.github.io"
 baseurl:          "/personal-web"
 github_username:  petabor
